@@ -1,9 +1,9 @@
 description: This is a template researchers can walk away with and create their own Portfolio.
 datelastupdated: Nov 2021
-fullnameofperson: Leah Gustafson
+fullnameofperson: Leah
 selfIdentification: Testing out using GitHub to create an ePortfolio.
-colour1: "#274c77"  # sidebar background 
-colour2: "#a3cef1"  # colour of name and desc
-colour3: "#a3cef1"  # colour of Menu links
-colour4: "#d4dfc7" # trying to be background colour - still experimenting 
-colour5: "#e7ecef" # menu link colour when hover
+colour1: "#8ECAE6"  # sidebar background 
+colour2: "#FB8500"  # colour of name and desc
+colour3: "#023047"  # colour of Menu links
+colour4: "#ffffff" # trying to be background colour - still experimenting 
+colour5: "#FFB703" # menu link colour when hover
